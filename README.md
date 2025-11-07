@@ -1,8 +1,12 @@
-# DISARM Disinformation TTP (Tactics, Techniques and Procedures) Framework
+# DISARM 2.0 Observations Framework
 
 DISARM is a framework designed for describing and understanding disinformation incidents.  DISARM is part of work on adapting information security (infosec) practices to help track and counter disinformation and other information harms, and is designed to fit existing infosec practices and tools.
 
 DISARM's style is based on the [MITRE ATT&amp;CK framework](https://github.com/mitre-attack/attack-website/). STIX templates for DISARM objects are available in the [DISARM_CTI repo](https://github.com/DISARMFoundation/DISARM_cti) - these make it easy for DISARM data to be passed between ISAOs and similar bodies using standards like TAXII.
+
+The DISARM 2.0 Observations Framework is a beta version of one component of the future DISARM Red Framework which will also include Playbooks and an Assessment Framework. The Observations Framework allows analysts to codify observations of suspected FIMI artefacts, organized by assets, behaviors and content. This framework does not consist of techniques. It is not structured using a kill chain. Rather, each category of observation (assets, behaviors, and content) is broken down into sub-categories which constitute columns in the 2.0 Observations matrix. The individual cells of the matrix describe detailed facets of the observations. An aggregate observation can be described using multiple facets. 
+
+The idea behind DISARM 2.0 is to empower analysts to make the case for impactful defender actions which will counter FIMI. This involves collecting and characterizing evidence in terms of observations, grouping these observations, making inferences upon those observations, fusing these observations with other intelligence, and in that way building up an assessment of who did what to whom, when, where, why, and how, in a way that makes a compelling case for an intervention. To avoid infringements of free speech, interventions beyond reporting on FIMI are not advised unless there is a clear violation of law, regulation, or terms of service. DISARM 2.0 helps analysts to document such violations and make the case for such interventions where appropriate.   
 
 ## What's in this folder
 
@@ -10,12 +14,12 @@ DISARM DOCUMENTATION:
 * [DISARM_DOCUMENTATION](DISARM_DOCUMENTATION): DISARM user guides, design guides, and more detailed TTP documentation.
 * [DISARM_HISTORY](DISARM_DOCUMENTATION/DISARM_HISTORY): earlier models and reports.
 
-DISARM FRAMEWORKS:
+DISARM FRAMEWORKS V1.X:
 * [DISARM Red Team Framework](generated_pages/disarm_red_framework.md) - Disinformation creator TTPs, listed by tactic stage. This is the classic "DISARM Framework" that's bundled with MISP.  The [clickable](generated_files/disarm_red_framework_clickable.html) version is for rapidly creating lists of TTPs.
 * [DISARM Blue Team Framework](generated_pages/disarm_blue_framework.md) - Disinformation responder TTPs, listed by tactic stage. These are countermeasures, listed by the earliest tactic stages they're likely to be used in.
 * The set of dsinformation responder TTPs in the DISARM Blue Team Framework was derived in 2019 by volunteers in a workshop.  It includes TTPs seen in countries with different ethical values (such as “censorship”, an action observed in countries with authoritarian governments). We will continue to make this “Blue” workshop output available as we develop an alternative based on democratic values and ethical principles, but we advise caution to anyone using it and have created a Companion Guide for those users (see under DISARM DOCUMENTATION). Of course, every user must consider for themselves what actions would be ethical, relevant, proportionate, and appropriate, given the unique legal, cultural, and normative context in which they are operating.
 
-DISARM OBJECTS: all the entities used to create the Red Team and Blue Team frameworks:
+DISARM OBJECTS in V1.X: all the entities used to create the Red Team and Blue Team frameworks:
 * [Phases](generated_pages/phases_index.md): higher-level groupings of tactics, created so we could check we didn't miss anything
 * [Tactics](generated_pages/tactics_index.md): stages that someone running a misinformation incident is likely to use
 * [Techniques](generated_pages/techniques_index.md): activities that might be seen at each stage
@@ -45,6 +49,8 @@ If you have your own version of this repository and update DISARM_FRAMEWORKS_MAS
 
 
 ## Who's Responsible for DISARM (and a little history)
+
+* In 2025, we added the 2.0 Observations Framework, including support for the DISARM Navigator and the DISARM Add-In for Microsoft Word. The Navigator can be accessed here **[DISARM 2.0 Observations Framework](https://disarmfoundation.github.io/disarm-navigator-20-observable/)**. The Manifest file for the DISARM Add-In for Microsoft Word can be accessed here **[Manifest](CODE/manifest2.0.xml)**. Installation instructions are here [for Word on MacOS](https://learn.microsoft.com/en-us/office/dev/add-ins/testing/sideload-an-office-add-in-on-mac), [for Word on Windows]( https://learn.microsoft.com/en-us/office/dev/add-ins/testing/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins), and [for Word on the Web]( https://learn.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing).  
 
 * Now: **[DISARM Foundation](https://www.disarm.foundation/)** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).  
 
