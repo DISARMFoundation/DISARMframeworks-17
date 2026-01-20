@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--fe3ecc7b-3a25-4da5-a768-14312257e86e",
+    "id": "bundle--ed45487b-480b-4656-b181-df540cddbcb2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d2536dd3-53a5-4fc1-b508-1697cf0dafde",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-11-22T16:43:58.210819Z",
-            "modified": "2024-11-22T16:43:58.210819Z",
+            "created": "2026-01-20T21:49:08.543295Z",
+            "modified": "2026-01-20T21:49:08.543295Z",
             "name": "Content",
             "description": "Measure current system state with respect to the effectiveness of campaign content.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0133.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks-17/blob/main/generated_pages/techniques/T0133.002.md",
                     "external_id": "T0133.002"
                 }
             ],
