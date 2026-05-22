@@ -22,7 +22,7 @@
 <tr>
 <td><a href="techniques/T0073.md">T0073 Determine Target Audiences</a></td>
 <td><a href="techniques/T0002.md">T0002 Facilitate State Propaganda</a></td>
-<td><a href="techniques/T0016.md">T0016 Create Clickbait</a></td>
+<td><a href="techniques/T0018.md">T0018 Purchase Targeted Advertisements</a></td>
 <td><a href="techniques/T0015.md">T0015 Create Hashtags and Search Artefacts</a></td>
 <td><a href="techniques/T0029.md">T0029 Online Polls</a></td>
 <td><a href="techniques/T0020.md">T0020 Trial Content</a></td>
@@ -39,7 +39,7 @@
 <tr>
 <td><a href="techniques/T0074.md">T0074 Determine Strategic Ends</a></td>
 <td><a href="techniques/T0066.md">T0066 Degrade Adversary</a></td>
-<td><a href="techniques/T0018.md">T0018 Purchase Targeted Advertisements</a></td>
+<td><a href="techniques/T0101.md">T0101 Create Localised Content</a></td>
 <td><a href="techniques/T0015.001.md">T0015.001 Use Existing Hashtag</a></td>
 <td><a href="techniques/T0107.md">T0107 Bookmarking and Content Curation</a></td>
 <td><a href="techniques/T0169.md">T0169 Edit Open-Source Content</a></td>
@@ -56,7 +56,7 @@
 <tr>
 <td><a href="techniques/T0074.001.md">T0074.001 Geopolitical Advantage</a></td>
 <td><a href="techniques/T0075.md">T0075 Dismiss</a></td>
-<td><a href="techniques/T0101.md">T0101 Create Localised Content</a></td>
+<td><a href="techniques/T0102.md">T0102 Leverage Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0015.002.md">T0015.002 Create New Hashtag</a></td>
 <td><a href="techniques/T0109.md">T0109 Consumer Review Networks</a></td>
 <td><a href="techniques/T0114.md">T0114 Deliver Ads</a></td>
@@ -73,7 +73,7 @@
 <tr>
 <td><a href="techniques/T0074.002.md">T0074.002 Domestic Political Advantage</a></td>
 <td><a href="techniques/T0075.001.md">T0075.001 Discredit Credible Sources</a></td>
-<td><a href="techniques/T0102.md">T0102 Leverage Echo Chambers/Filter Bubbles</a></td>
+<td><a href="techniques/T0102.001.md">T0102.001 Use Existing Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0046.md">T0046 Use Search Engine Optimisation</a></td>
 <td><a href="techniques/T0110.md">T0110 Formal Diplomatic Channels</a></td>
 <td><a href="techniques/T0114.001.md">T0114.001 Social Media</a></td>
@@ -90,7 +90,7 @@
 <tr>
 <td><a href="techniques/T0074.003.md">T0074.003 Economic Advantage</a></td>
 <td><a href="techniques/T0076.md">T0076 Distort</a></td>
-<td><a href="techniques/T0102.001.md">T0102.001 Use Existing Echo Chambers/Filter Bubbles</a></td>
+<td><a href="techniques/T0102.002.md">T0102.002 Create Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0084.md">T0084 Reuse Existing Content</a></td>
 <td><a href="techniques/T0111.md">T0111 Traditional Media</a></td>
 <td><a href="techniques/T0114.002.md">T0114.002 Traditional Media</a></td>
@@ -107,7 +107,7 @@
 <tr>
 <td><a href="techniques/T0074.004.md">T0074.004 Ideological Advantage</a></td>
 <td><a href="techniques/T0077.md">T0077 Distract</a></td>
-<td><a href="techniques/T0102.002.md">T0102.002 Create Echo Chambers/Filter Bubbles</a></td>
+<td><a href="techniques/T0102.003.md">T0102.003 Exploit Data Voids</a></td>
 <td><a href="techniques/T0084.001.md">T0084.001 Use Copypasta</a></td>
 <td><a href="techniques/T0111.001.md">T0111.001 TV</a></td>
 <td><a href="techniques/T0115.md">T0115 Post Content</a></td>
@@ -124,7 +124,7 @@
 <tr>
 <td> </td>
 <td><a href="techniques/T0078.md">T0078 Dismay</a></td>
-<td><a href="techniques/T0102.003.md">T0102.003 Exploit Data Voids</a></td>
+<td> </td>
 <td><a href="techniques/T0084.002.md">T0084.002 Plagiarise Content</a></td>
 <td><a href="techniques/T0111.002.md">T0111.002 Newspaper</a></td>
 <td><a href="techniques/T0115.001.md">T0115.001 Share Memes</a></td>
@@ -516,7 +516,7 @@
 <td> </td>
 <td><a href="techniques/T0138.md">T0138 Motivate to Act</a></td>
 <td> </td>
-<td><a href="techniques/T0165.md">T0165 Edited Content</a></td>
+<td><a href="techniques/T0161.005.md">T0161.005 Action Incorrectly Presented as Taken by Individual or Institution</a></td>
 <td><a href="techniques/T0152.003.md">T0152.003 Website Hosting Platform</a></td>
 <td> </td>
 <td> </td>
@@ -533,7 +533,7 @@
 <td> </td>
 <td><a href="techniques/T0138.001.md">T0138.001 Encourage</a></td>
 <td> </td>
-<td><a href="techniques/T0165.001.md">T0165.001 Clipped Content</a></td>
+<td><a href="techniques/T0165.md">T0165 Edited Content</a></td>
 <td><a href="techniques/T0152.004.md">T0152.004 Website Asset</a></td>
 <td> </td>
 <td> </td>
@@ -550,7 +550,7 @@
 <td> </td>
 <td><a href="techniques/T0138.002.md">T0138.002 Provoke</a></td>
 <td> </td>
-<td><a href="techniques/T0165.002.md">T0165.002 Cropped Content</a></td>
+<td><a href="techniques/T0165.001.md">T0165.001 Clipped Content</a></td>
 <td><a href="techniques/T0152.005.md">T0152.005 Paste Platform</a></td>
 <td> </td>
 <td> </td>
@@ -567,7 +567,7 @@
 <td> </td>
 <td><a href="techniques/T0138.003.md">T0138.003 Compel</a></td>
 <td> </td>
-<td><a href="techniques/T0165.003.md">T0165.003 Playback Speed Altered</a></td>
+<td><a href="techniques/T0165.002.md">T0165.002 Cropped Content</a></td>
 <td><a href="techniques/T0152.006.md">T0152.006 Video Platform</a></td>
 <td> </td>
 <td> </td>
@@ -584,7 +584,7 @@
 <td> </td>
 <td><a href="techniques/T0139.md">T0139 Dissuade from Acting</a></td>
 <td> </td>
-<td><a href="techniques/T0165.004.md">T0165.004 Source Edited Out of Content</a></td>
+<td><a href="techniques/T0165.003.md">T0165.003 Playback Speed Altered</a></td>
 <td><a href="techniques/T0152.007.md">T0152.007 Audio Platform</a></td>
 <td> </td>
 <td> </td>
@@ -601,7 +601,7 @@
 <td> </td>
 <td><a href="techniques/T0139.001.md">T0139.001 Discourage</a></td>
 <td> </td>
-<td><a href="techniques/T0166.md">T0166 AI-Generated Content</a></td>
+<td><a href="techniques/T0165.004.md">T0165.004 Source Edited Out of Content</a></td>
 <td><a href="techniques/T0152.008.md">T0152.008 Live Streaming Platform</a></td>
 <td> </td>
 <td> </td>
@@ -618,7 +618,7 @@
 <td> </td>
 <td><a href="techniques/T0139.002.md">T0139.002 Silence</a></td>
 <td> </td>
-<td><a href="techniques/T0166.001.md">T0166.001 Deepfake Impersonation</a></td>
+<td><a href="techniques/T0165.005.md">T0165.005 AI-Edited Content</a></td>
 <td><a href="techniques/T0152.009.md">T0152.009 Software Delivery Platform</a></td>
 <td> </td>
 <td> </td>
@@ -635,7 +635,7 @@
 <td> </td>
 <td><a href="techniques/T0139.003.md">T0139.003 Deter</a></td>
 <td> </td>
-<td><a href="techniques/T0166.002.md">T0166.002 Sexual Deepfake Impersonation</a></td>
+<td><a href="techniques/T0166.md">T0166 AI-Generated Content</a></td>
 <td><a href="techniques/T0152.010.md">T0152.010 File Hosting Platform</a></td>
 <td> </td>
 <td> </td>
@@ -652,14 +652,14 @@
 <td> </td>
 <td><a href="techniques/T0140.md">T0140 Cause Harm</a></td>
 <td> </td>
-<td><a href="techniques/T0166.003.md">T0166.003 AI-Nudified Imagery</a></td>
+<td><a href="techniques/T0166.001.md">T0166.001 Deepfake Impersonation</a></td>
 <td><a href="techniques/T0152.011.md">T0152.011 Wiki Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0167.md">T0167 Issue with Content's Headline</a></td>
+<td><a href="techniques/T0164.004.md">T0164.004 Narrative Uses Misleading Data Visualisation</a></td>
 <td><a href="techniques/T0146.005.md">T0146.005 Lookalike Account ID</a></td>
 <td><a href="techniques/T0144.002.md">T0144.002 Persona Template</a></td>
 <td> </td>
@@ -669,14 +669,14 @@
 <td> </td>
 <td><a href="techniques/T0140.001.md">T0140.001 Defame</a></td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0166.002.md">T0166.002 Sexual Deepfake Impersonation</a></td>
 <td><a href="techniques/T0152.012.md">T0152.012 Subscription Service Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0167.001.md">T0167.001 Use of Clickbait</a></td>
+<td><a href="techniques/T0167.md">T0167 Issue with Content's Headline</a></td>
 <td><a href="techniques/T0146.006.md">T0146.006 Open Access Platform</a></td>
 <td><a href="techniques/T0143.005.md">T0143.005 Compromised Persona</a></td>
 <td> </td>
@@ -686,14 +686,14 @@
 <td> </td>
 <td><a href="techniques/T0140.002.md">T0140.002 Intimidate</a></td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0166.003.md">T0166.003 AI-Nudified Imagery</a></td>
 <td><a href="techniques/T0153.md">T0153 Digital Content Delivery Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0167.002.md">T0167.002 Title Misrepresents Content</a></td>
+<td><a href="techniques/T0167.001.md">T0167.001 Use of Clickbait</a></td>
 <td><a href="techniques/T0146.007.md">T0146.007 Automated Account Asset</a></td>
 <td> </td>
 <td> </td>

@@ -851,9 +851,10 @@ function handleTechniqueClick(box) {{
         ''' Write course of action matrix for tactics vs responsetype
         '''
 
-        counts_table = pd.pivot_table(self.df_counters[['responsetype', 'tactic_id','disarm_id']], 
-                                  index='tactic_id', columns='responsetype', aggfunc=len, 
-                                  fill_value=0) 
+        counts_table = pd.pivot_table(self.df_counters[['responsetype', 'tactic_id','disarm_id']],
+                                  index='tactic_id', columns='responsetype', aggfunc=len,
+                                  fill_value=0)
+        counts_table = counts_table[counts_table.index.isin(self.tactics.keys())]
         counts_table['TOTALS'] = counts_table.sum(axis=1)
 
         self.write_counts_table_to_file('tactic', self.tactics, counts_table, outfile)

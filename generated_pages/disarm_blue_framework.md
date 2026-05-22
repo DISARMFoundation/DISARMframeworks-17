@@ -25,7 +25,7 @@
 <td><a href="counters/C00065.md">C00065 Reduce political targeting</a></td>
 <td><a href="counters/C00014.md">C00014 Real-time updates to fact-checking database</a></td>
 <td><a href="counters/C00090.md">C00090 Fake engagement system</a></td>
-<td><a href="counters/C00100.md">C00100 Hashtag jacking</a></td>
+<td><a href="counters/C00109.md">C00109 Dampen Emotional Reaction</a></td>
 <td> </td>
 <td><a href="counters/C00131.md">C00131 Seize and analyse botnet servers</a></td>
 <td><a href="counters/C00140.md">C00140 "Bomb" link shorteners with lots of calls</a></td>
@@ -42,7 +42,7 @@
 <td><a href="counters/C00066.md">C00066 Co-opt a hashtag and drown it out (hijack it back)</a></td>
 <td><a href="counters/C00032.md">C00032 Hijack content and link to truth- based info</a></td>
 <td><a href="counters/C00097.md">C00097 Require use of verified identities to contribute to poll or comment</a></td>
-<td><a href="counters/C00109.md">C00109 Dampen Emotional Reaction</a></td>
+<td><a href="counters/C00122.md">C00122 Content moderation</a></td>
 <td> </td>
 <td><a href="counters/C00138.md">C00138 Spam domestic actors with lawsuits</a></td>
 <td><a href="counters/C00148.md">C00148 Add random links to network graphs</a></td>
@@ -59,7 +59,7 @@
 <td><a href="counters/C00130.md">C00130 Mentorship: elders, youth, credit. Learn vicariously.</a></td>
 <td><a href="counters/C00071.md">C00071 Block source of pollution</a></td>
 <td><a href="counters/C00098.md">C00098 Revocation of allowlisted or "verified" status</a></td>
-<td><a href="counters/C00112.md">C00112 "Prove they are not an op!"</a></td>
+<td><a href="counters/C00123.md">C00123 Remove or rate limit botnets</a></td>
 <td> </td>
 <td><a href="counters/C00139.md">C00139 Weaponise youtube content matrices</a></td>
 <td><a href="counters/C00149.md">C00149 Poison the monitoring & evaluation data</a></td>
@@ -76,7 +76,7 @@
 <td><a href="counters/C00178.md">C00178 Fill information voids with non-disinformation content</a></td>
 <td><a href="counters/C00072.md">C00072 Remove non-relevant content from special interest groups - not recommended</a></td>
 <td><a href="counters/C00099.md">C00099 Strengthen verification methods</a></td>
-<td><a href="counters/C00113.md">C00113 Debunk and defuse a fake expert / credentials.</a></td>
+<td><a href="counters/C00124.md">C00124 Don't feed the trolls</a></td>
 <td> </td>
 <td><a href="counters/C00143.md">C00143 (botnet) DMCA takedown requests to waste group time</a></td>
 <td> </td>
@@ -93,7 +93,7 @@
 <td><a href="counters/C00216.md">C00216 Use advertiser controls to stem flow of funds to bad actors</a></td>
 <td><a href="counters/C00074.md">C00074 Identify and delete or rate limit identical content</a></td>
 <td><a href="counters/C00101.md">C00101 Create friction by rate-limiting engagement</a></td>
-<td><a href="counters/C00114.md">C00114 Don't engage with payloads</a></td>
+<td><a href="counters/C00125.md">C00125 Prebunking</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -110,7 +110,7 @@
 <td> </td>
 <td><a href="counters/C00075.md">C00075 normalise language</a></td>
 <td><a href="counters/C00103.md">C00103 Create a bot that engages / distract trolls</a></td>
-<td><a href="counters/C00115.md">C00115 Expose actor and intentions</a></td>
+<td><a href="counters/C00126.md">C00126 Social media amber alert</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -127,7 +127,7 @@
 <td> </td>
 <td><a href="counters/C00076.md">C00076 Prohibit images in political discourse channels</a></td>
 <td><a href="counters/C00105.md">C00105 Buy more advertising than misinformation creators</a></td>
-<td><a href="counters/C00116.md">C00116 Provide proof of involvement</a></td>
+<td><a href="counters/C00128.md">C00128 Create friction by marking content with ridicule or other "decelerants"</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -144,7 +144,7 @@
 <td> </td>
 <td><a href="counters/C00078.md">C00078 Change Search Algorithms for Disinformation Content</a></td>
 <td><a href="counters/C00195.md">C00195 Redirect searches away from disinformation or extremist content</a></td>
-<td><a href="counters/C00117.md">C00117 Downgrade / de-amplify so message is seen by fewer people</a></td>
+<td><a href="counters/C00129.md">C00129 Use banking to cut off access</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -161,7 +161,7 @@
 <td> </td>
 <td><a href="counters/C00080.md">C00080 Create competing narrative</a></td>
 <td> </td>
-<td><a href="counters/C00118.md">C00118 Repurpose images with new text</a></td>
+<td><a href="counters/C00147.md">C00147 Make amplification of social media posts expire (e.g. can't like/ retweet after n days)</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -178,7 +178,7 @@
 <td> </td>
 <td><a href="counters/C00081.md">C00081 Highlight flooding and noise, and explain motivations</a></td>
 <td> </td>
-<td><a href="counters/C00119.md">C00119 Engage payload and debunk.</a></td>
+<td><a href="counters/C00182.md">C00182 Redirection / malware detection/ remediation</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -195,7 +195,7 @@
 <td> </td>
 <td><a href="counters/C00082.md">C00082 Ground truthing as automated response to pollution</a></td>
 <td> </td>
-<td><a href="counters/C00120.md">C00120 Open dialogue about design of platforms to produce different outcomes</a></td>
+<td><a href="counters/C00200.md">C00200 Respected figure (influencer) disavows misinfo</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -212,7 +212,7 @@
 <td> </td>
 <td><a href="counters/C00084.md">C00084 Modify disinformation narratives, and rebroadcast them</a></td>
 <td> </td>
-<td><a href="counters/C00121.md">C00121 Tool transparency and literacy for channels people follow.</a></td>
+<td><a href="counters/C00211.md">C00211 Use humorous counter-narratives</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -229,7 +229,7 @@
 <td> </td>
 <td><a href="counters/C00085.md">C00085 Mute content</a></td>
 <td> </td>
-<td><a href="counters/C00122.md">C00122 Content moderation</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -246,7 +246,7 @@
 <td> </td>
 <td><a href="counters/C00086.md">C00086 Distract from noise with addictive content</a></td>
 <td> </td>
-<td><a href="counters/C00123.md">C00123 Remove or rate limit botnets</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -263,7 +263,7 @@
 <td> </td>
 <td><a href="counters/C00087.md">C00087 Make more noise than the disinformation</a></td>
 <td> </td>
-<td><a href="counters/C00124.md">C00124 Don't feed the trolls</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -280,7 +280,7 @@
 <td> </td>
 <td><a href="counters/C00091.md">C00091 Honeypot social community</a></td>
 <td> </td>
-<td><a href="counters/C00125.md">C00125 Prebunking</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -297,7 +297,7 @@
 <td> </td>
 <td><a href="counters/C00094.md">C00094 Force full disclosure on corporate sponsor of research</a></td>
 <td> </td>
-<td><a href="counters/C00126.md">C00126 Social media amber alert</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -314,7 +314,7 @@
 <td> </td>
 <td><a href="counters/C00106.md">C00106 Click-bait centrist content</a></td>
 <td> </td>
-<td><a href="counters/C00128.md">C00128 Create friction by marking content with ridicule or other "decelerants"</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -331,7 +331,7 @@
 <td> </td>
 <td><a href="counters/C00107.md">C00107 Content moderation</a></td>
 <td> </td>
-<td><a href="counters/C00129.md">C00129 Use banking to cut off access</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -348,7 +348,7 @@
 <td> </td>
 <td><a href="counters/C00142.md">C00142 Platform adds warning label and decision point when sharing content</a></td>
 <td> </td>
-<td><a href="counters/C00136.md">C00136 Microtarget most likely targets then send them countermessages</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -365,7 +365,7 @@
 <td> </td>
 <td><a href="counters/C00165.md">C00165 Ensure integrity of official documents</a></td>
 <td> </td>
-<td><a href="counters/C00147.md">C00147 Make amplification of social media posts expire (e.g. can't like/ retweet after n days)</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -382,7 +382,7 @@
 <td> </td>
 <td><a href="counters/C00202.md">C00202 Set data 'honeytraps'</a></td>
 <td> </td>
-<td><a href="counters/C00154.md">C00154 Ask media not to report false information</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -399,7 +399,7 @@
 <td> </td>
 <td><a href="counters/C00219.md">C00219 Add metadata to content that’s out of the control of disinformation creators</a></td>
 <td> </td>
-<td><a href="counters/C00182.md">C00182 Redirection / malware detection/ remediation</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -416,7 +416,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="counters/C00184.md">C00184 Media exposure</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -433,7 +433,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="counters/C00188.md">C00188 Newsroom/Journalist training to counter influence moves</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -450,7 +450,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="counters/C00200.md">C00200 Respected figure (influencer) disavows misinfo</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -467,7 +467,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="counters/C00211.md">C00211 Use humorous counter-narratives</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>

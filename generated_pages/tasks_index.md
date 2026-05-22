@@ -161,19 +161,19 @@
 <td><a href="tasks/TK0019.md">TK0019</a></td>
 <td>anchor trust / credibility</td>
 <td>anchor trust / credibility</td>
-<td>TA09</td>
+<td>TA08</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0020.md">TK0020</a></td>
 <td>insert themes</td>
 <td>insert themes</td>
-<td>TA09</td>
+<td>TA08</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0038.md">TK0038</a></td>
-<td>OPSEC for TA09</td>
-<td>OPSEC for TA09</td>
-<td>TA09</td>
+<td>OPSEC for TA08</td>
+<td>OPSEC for TA08</td>
+<td>TA08</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0021.md">TK0021</a></td>

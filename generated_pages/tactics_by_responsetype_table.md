@@ -61,13 +61,13 @@
 </tr>
 <tr>
 <td><a href="../generated_pages/tactics/TA09.md">TA09 Deliver Content</a></td>
+<td>3</td>
 <td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>12</td>
-<td>3</td>
-<td>0</td>
-<td>0</td>
-<td>3</td>
-<td>27</td>
 </tr>
 <tr>
 <td><a href="../generated_pages/tactics/TA11.md">TA11 Persist in the Information Environment</a></td>
@@ -101,12 +101,12 @@
 </tr>
 <tr>
 <td>TOTALS</td>
-<td>43</td>
-<td>53</td>
-<td>27</td>
+<td>37</td>
+<td>50</td>
+<td>24</td>
 <td>4</td>
 <td>1</td>
-<td>12</td>
-<td>140</td>
+<td>9</td>
+<td>125</td>
 </tr>
 </table>

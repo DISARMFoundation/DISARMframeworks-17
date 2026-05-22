@@ -132,7 +132,7 @@
 <tr>
 <td><a href="detections/F00016.md">F00016</a></td>
 <td>Identify fence-sitters</td>
-<td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts. In TA09-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
+<td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts. In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
 <td></td>
 <td>TA15 Establish Assets</td>
 <td>D01</td>
@@ -358,7 +358,7 @@
 <td>Forensic analysis</td>
 <td>Can be used in all phases for all techniques.</td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -366,7 +366,7 @@
 <td>Forensic linguistic analysis</td>
 <td>Can be used in all phases for all techniques.</td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -374,7 +374,7 @@
 <td>Pump priming analytics</td>
 <td></td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -382,7 +382,7 @@
 <td>trace involved parties</td>
 <td></td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@
 <td>Trace known operations and connection</td>
 <td></td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -398,7 +398,7 @@
 <td>trace money</td>
 <td></td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -406,7 +406,7 @@
 <td>Web cache analytics</td>
 <td></td>
 <td></td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D01</td>
 </tr>
 <tr>

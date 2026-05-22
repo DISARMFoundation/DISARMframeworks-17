@@ -534,7 +534,7 @@
 <td>Hashtag jacking</td>
 <td>Post large volumes of unrelated content on known misinformation hashtags</td>
 <td>M002 - Diversion</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@
 <td>"Prove they are not an op!"</td>
 <td>Challenge misinformation creators to prove they're not an information operation.</td>
 <td>M004 - Friction</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@
 <td>Debunk and defuse a fake expert / credentials.</td>
 <td>Debunk fake experts, their credentials, and potentially also their audience quality</td>
 <td>M003 - Daylight</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@
 <td>Don't engage with payloads</td>
 <td>Stop passing on misinformation</td>
 <td>M004 - Friction</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@
 <td>Expose actor and intentions</td>
 <td>Debunk misinformation creators and posters.</td>
 <td>M003 - Daylight</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -630,7 +630,7 @@
 <td>Provide proof of involvement</td>
 <td>Build and post information about groups etc's involvement in misinformation incidents.</td>
 <td>M003 - Daylight</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -638,7 +638,7 @@
 <td>Downgrade / de-amplify so message is seen by fewer people</td>
 <td>Label promote counter to disinformation</td>
 <td>M010 - Countermessaging</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -646,7 +646,7 @@
 <td>Repurpose images with new text</td>
 <td>Add countermessage text to iamges used in misinformation incidents.</td>
 <td>M010 - Countermessaging</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -654,7 +654,7 @@
 <td>Engage payload and debunk.</td>
 <td>debunk misinformation content. Provide link to facts.</td>
 <td>M010 - Countermessaging</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D07</td>
 </tr>
 <tr>
@@ -662,7 +662,7 @@
 <td>Open dialogue about design of platforms to produce different outcomes</td>
 <td>Redesign platforms and algorithms to reduce the effectiveness of disinformation</td>
 <td>M007 - Metatechnique</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D07</td>
 </tr>
 <tr>
@@ -670,7 +670,7 @@
 <td>Tool transparency and literacy for channels people follow.</td>
 <td>Make algorithms in platforms explainable, and visible to people using those platforms.</td>
 <td>M001 - Resilience</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D07</td>
 </tr>
 <tr>
@@ -766,7 +766,7 @@
 <td>Microtarget most likely targets then send them countermessages</td>
 <td>Find communities likely to be targetted by misinformation campaigns, and send them countermessages or pointers to information sources.</td>
 <td>M010 - Countermessaging</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -854,7 +854,7 @@
 <td>Ask media not to report false information</td>
 <td>Train media to spot and respond to misinformation, and ask them not to post or transmit misinformation they've found.</td>
 <td>M005 - Removal</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -982,7 +982,7 @@
 <td>Media exposure</td>
 <td>highlight misinformation activities and actors in media</td>
 <td>M003 - Daylight</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -990,7 +990,7 @@
 <td>Newsroom/Journalist training to counter influence moves</td>
 <td>Includes SEO influence. Includes promotion of a “higher standard of journalism”: journalism training “would be helpful, especially for the online community. Includes Strengthen local media: Improve effectiveness of local media outlets.</td>
 <td>M001 - Resilience</td>
-<td>TA09 Exposure</td>
+<td>TA08 Pump Priming</td>
 <td>D03</td>
 </tr>
 <tr>
