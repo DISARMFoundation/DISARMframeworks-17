@@ -182,7 +182,7 @@ class Disarm:
 
         it = it_metadata
         it.index=it['disarm_id']
-        it = it['technique_ids'].str.split(',').apply(lambda x: pd.Series(x)).stack().reset_index(level=1, drop=True).to_frame('technique_id').reset_index().merge(it.drop('disarm_id', axis=1).reset_index()).drop('technique_ids', axis=1)
+        it = it['technique_ids'].str.split(',').apply(lambda x: pd.Series(x)).stack().str.strip().reset_index(level=1, drop=True).to_frame('technique_id').reset_index().merge(it.drop('disarm_id', axis=1).reset_index()).drop('technique_ids', axis=1)
         it = it.merge(self.df_incidents[['disarm_id','name']], 
                       left_on='incident_id', right_on='disarm_id',
                       suffixes=['','_incident']).drop('incident_id', axis=1)
