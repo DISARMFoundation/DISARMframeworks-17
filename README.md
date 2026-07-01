@@ -1,7 +1,7 @@
 # DISARM 1.7 Framework
 
 DISARM provides a framework of commonly occurring behaviours exhibited during information manipulation and interference incidents, called “DISARM Techniques”.
-The DISARM 1.7 Framework contains additional techniques which are most relevant to Fact Checkers.
+The DISARM 1.7 Framework contains additional techniques which are most relevant to Fact Checkers. THE DISARM 1.7 FRAMEWORK IS STILL UNDER DEVELOPMENT. PLEASE BEAR WITH US. 
 
 DISARM's style is based on the [MITRE ATT&amp;CK framework](https://github.com/mitre-attack/attack-website/). STIX templates for DISARM objects are available in the [DISARM_CTI repo](https://github.com/DISARMFoundation/DISARM_cti) - these make it easy for DISARM data to be passed between ISAOs and similar bodies using standards like TAXII. 
 
